@@ -2,5 +2,5 @@
 Build:
   track1:
     - "jndi/pv/cache"
-track2:
-  - "java:comp/env"
+  track2:
+    - "java:comp/env"
